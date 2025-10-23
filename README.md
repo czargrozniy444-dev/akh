@@ -9,20 +9,13 @@ Men Frontend va Fullstack dasturchiman. Asosan quyidagi texnologiyalar bilan ish
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
----
-
-## Mening Loyihalarim
-- [Portfolio](https://github.com/username/portfolio) — Shaxsiy portfoliom Next.js bilan
-- [React Todo](https://github.com/username/react-todo) — Oddiy Todo ilova React bilan
-- [Landing Page](https://github.com/username/landing-page) — HTML/CSS asosidagi landing sahifa
-
----
 
 ## Mening Kontaktlarim
 
-📧 Email: example@mail.com  
-📱 Telegram: [@username](https://t.me/username)  
-📸 Instagram: [@username](https://instagram.com/username)  
+📧 Email: czar@mail.com  
+📱 Telegram: [@czar_444](https://t.me/username)  
+📸 Instagram: [@akhmadjon
+_akromovi4h](https://instagram.com/username)  
 
 ---
 
