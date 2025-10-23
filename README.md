@@ -1,4 +1,5 @@
-# Salom, men [Ismingiz]! 👋
+# Salom, men [akhmadjon yani czar
+]! 👋
 
 Men Frontend va Fullstack dasturchiman. Asosan quyidagi texnologiyalar bilan ishlayman:
 
