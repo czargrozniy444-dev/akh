@@ -1,5 +1,4 @@
-# hi, men [akhmadjon yani czar
-]! 👋
+# hi, men [akhmadjon yani czar]! 👋
 
 Men Frontend va Fullstack dasturchiman. Asosan quyidagi texnologiyalar bilan ishlayman:
 
